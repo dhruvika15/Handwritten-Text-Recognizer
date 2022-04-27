@@ -1,0 +1,2 @@
+# mnist
+Recognize handwritten text 
