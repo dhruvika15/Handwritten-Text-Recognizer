@@ -1,2 +1,2 @@
 # mnist
-Recognize handwritten text 
+Recognize handwritten text using mnist dataset and Deep Learning algorithm (CNN)
